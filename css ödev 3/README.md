@@ -13,4 +13,4 @@ Ve sonuç olarak böyle bir tasarım oluşturdum :)
 
 ![Google](img/googledesigner.png)
 
-Elimize sağlık.. :) 
+Elimize sağlık.. :smile:
